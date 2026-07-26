@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./logo.jpeg" width="260" />
-</p>
-
 <h1 align="center">21s</h1>
 <h3 align="center">App Developer • Store Signature • Design</h3>
 
@@ -16,6 +12,14 @@
 - 💻 Developer of mobile & desktop apps
 - 🏪 Store signatures & branding for apps/games
 - 🎨 UI/UX & visual design
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Theos-000000?style=for-the-badge&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
 ### 📫 Contact
 <p align="center">
